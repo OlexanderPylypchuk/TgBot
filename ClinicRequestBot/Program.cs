@@ -8,7 +8,7 @@ using Telegram.Bot.Types.ReplyMarkups;
 
 namespace ClinicRequestBot
 {
-	public class Program()
+	public class Program() //ніяк не була змінена
 	{
 		static ReplyKeyboardMarkup replyKeyboardMarkup;
 		public async static Task Main()
